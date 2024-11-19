@@ -1,2 +1,2 @@
 Select * From VehicleDetails
-Where NumDoors is NUll
+Where NumDoors is NULL
